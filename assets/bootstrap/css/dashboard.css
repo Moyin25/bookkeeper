@@ -1,0 +1,14 @@
+body {
+      background: linear-gradient(to right, lightblue, slateblue);
+      font-family: 'Comic sans Ms';
+    }
+
+    .containercus {
+      background: linear-gradient(to right, white, grey);
+      border-radius: 10px;
+      padding: 50px 20px;
+      box-shadow: 0 5px 10px;
+      width: 1300px;
+    }
+
+
