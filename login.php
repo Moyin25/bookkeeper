@@ -66,7 +66,7 @@ if(array_key_exists('loginUser', $_POST)) {
       <input type="password" name="password" class="form-control">
     </div>
     <div class="form-group form-check">
-      <input type="checkbox" class="form-check-input" id="ejefjdkjd">
+      <input type="checkbox" class="form-check-input" id="exampleCheck1">
       <label class="form-check-label" for="exampleCheck1">Remeber Me</label>
       <a class="text-white text-bold" href="signup.php" style="float: right;">Register Here</a> 
     </div>
